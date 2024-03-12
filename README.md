@@ -2,6 +2,7 @@
 
 <h2> 👨‍💻 Cyber Security Projects:</h2>
 
+- [Port Scanner](https://github.com/iamakky24/Port-Scanner)
 - [Hello World](https://github.com/iamakky24/Hello-World)
 
 <h2> 🎖️ Certificates:</h2>

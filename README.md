@@ -1,9 +1,9 @@
-<h1>Hi, I'm Akshay Ramtekkar!👋🏻 <br/><a href="https://github.com/iamakky24">CyberSecurity</a>, <a href="https://www.youtube.com/channel/UCd6tC5pO78ClYZrT2gyUPsQ">Gamer</a><h1>
+<h1>Hi, I'm Akshay Ramtekkar!👋🏻 <h1>
 
 <h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hello World!](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Hello World!](https://github.com/iamakky24/Hello-World)
 
 <h2>🎖️ Licenses & certifications</h2>
 

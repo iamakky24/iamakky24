@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hello World!](https://github.com/iamakky24/Hello-World)
+- [Hello World!](https://github.com/iamakky24/Hello-World)
 
 <h2>🎖️ Licenses & certifications</h2>
 

@@ -2,6 +2,7 @@
 
 <h2> 👨‍💻 Cyber Security Projects:</h2>
 
+- [WPS Attack](https://github.com/iamakky24/WPS-Attack)
 - [Port Scanner](https://github.com/iamakky24/Port-Scanner)
 
 <h2> 🎖️ Certificates:</h2>

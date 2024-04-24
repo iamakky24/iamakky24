@@ -2,6 +2,7 @@
 
 <h2> 👨‍💻 Cyber Security Projects:</h2>
 
+- [WiFi Password Cracking](https://github.com/iamakky24/WiFi-Password-Cracking)
 - [WPS Attack](https://github.com/iamakky24/WPS-Attack)
 - [Port Scanner](https://github.com/iamakky24/Port-Scanner)
 
